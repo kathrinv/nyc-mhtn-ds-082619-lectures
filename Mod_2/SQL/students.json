@@ -1,8 +1,8 @@
 [{"name": "Amora Sun",
-"DOB": "11/24/1991"
-"siblings": "none"
-"Birthplace": "China"
-"yearinnyc": "22"
+"DOB": "11/24/1991",
+"siblings": "none",
+"Birthplace": "China",
+"yearinnyc": "22",
 "favoritefood": "Japanese"},
 {"name": "Alec Ryman",
 "birthdate": "2-14-1993",
@@ -89,7 +89,7 @@
 "yearsinnyc": 0,
 "favoritefood": "Reuben Sandwich"},
 {"name": "Michelle Venables",
-"birthdate": "10/28/1993,
+"birthdate": "10/28/1993",
 "siblings": "3",
 "Birthplace": "New Jersey",
 "yearsinnyc": "2",
